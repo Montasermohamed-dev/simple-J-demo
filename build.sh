@@ -7,6 +7,6 @@ mkdir -p build
 cp index.html build/
 echo "test" > build/HowItGoes.html
 
-echo $USR
+echo $USER
 echo "Build complete. Output is in ./build/"
 echo "A7la mesa 3la oyonak"
