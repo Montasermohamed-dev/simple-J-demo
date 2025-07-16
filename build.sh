@@ -5,7 +5,7 @@ echo "Copying index.html to build directory..."
 
 mkdir -p build
 cp index.html build/
-echo "test" > build/HowItGoes
+echo "test" > build/HowItGoes.html
 
 echo $USR
 echo "Build complete. Output is in ./build/"
